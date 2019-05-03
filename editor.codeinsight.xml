@@ -1,4 +1,11 @@
 <application>
+  <component name="AndroidFoldingSettings">
+    <option name="collapseAndroidStrings" value="false" />
+    <option name="COLLAPSE_ANDROID_TEXT" value="false" />
+  </component>
+  <component name="CodeFoldingSettings">
+    <option name="COLLAPSE_IMPORTS" value="false" />
+  </component>
   <component name="CodeInsightSettings">
     <option name="AUTO_POPUP_JAVADOC_INFO" value="true" />
   </component>
