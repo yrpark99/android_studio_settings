@@ -10,5 +10,8 @@
     <keyboard-shortcut first-keystroke="ctrl f11" />
   </action>
   <action id="SafeDelete" />
+  <action id="SplitVertically">
+    <keyboard-shortcut first-keystroke="ctrl back_slash" />
+  </action>
   <action id="ToggleBookmarkWithMnemonic" />
 </keymap>
