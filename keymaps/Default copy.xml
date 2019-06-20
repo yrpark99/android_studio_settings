@@ -14,4 +14,7 @@
     <keyboard-shortcut first-keystroke="ctrl back_slash" />
   </action>
   <action id="ToggleBookmarkWithMnemonic" />
+  <action id="org.intellij.plugins.markdown.ui.actions.editorLayout.EditorAndPreviewLayoutChangeAction">
+    <keyboard-shortcut first-keystroke="alt m" />
+  </action>
 </keymap>
