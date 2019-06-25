@@ -4,18 +4,26 @@
     <property name="created">2019-04-29T10:55:22</property>
     <property name="ide">AndroidStudio</property>
     <property name="ideVersion">3.4.0.18</property>
-    <property name="modified">2019-06-25T15:39:56</property>
+    <property name="modified">2019-06-25T18:50:34</property>
     <property name="originalScheme">Darcula</property>
   </metaInfo>
+  <option name="LINE_SPACING" value="1.0" />
+  <font>
+    <option name="EDITOR_FONT_NAME" value="D2Coding" />
+    <option name="EDITOR_FONT_SIZE" value="17" />
+  </font>
+  <font>
+    <option name="EDITOR_FONT_NAME" value="Consolas" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
+  </font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="D2Coding" />
     <option name="EDITOR_FONT_SIZE" value="16" />
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Consolas" />
-    <option name="EDITOR_FONT_SIZE" value="17" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
   </console-font>
-  <option name="CONSOLE_LINE_SPACING" value="1.0" />
   <colors>
     <option name="INDENT_GUIDE" value="" />
     <option name="RIGHT_MARGIN_COLOR" value="" />
