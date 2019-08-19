@@ -10,8 +10,12 @@
           <option name="url" value="https://github.com/DimaKoz/meat-grinder" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/TakuSemba/SampleDrmExoPlayer.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\EMV_Project\Develop" />
+    <option name="cloneParentDir" value="D:\EMV_Project\Dev" />
   </component>
 </application>
