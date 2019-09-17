@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Mutual" />
+      <item value="상호" />
+      <item value="Mutal" />
       <item value="Build stand-alone tools" />
       <item value="Build doxygen document" />
       <item value="Display help message" />
@@ -8,8 +11,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="4" />
-        <entry key="KOREAN" value="4" />
+        <entry key="ENGLISH" value="6" />
+        <entry key="KOREAN" value="6" />
       </map>
     </option>
   </component>
