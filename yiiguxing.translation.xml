@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="BATTERY" />
       <item value="Mutual" />
       <item value="상호" />
       <item value="Mutal" />
@@ -11,8 +12,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="6" />
-        <entry key="KOREAN" value="6" />
+        <entry key="ENGLISH" value="7" />
+        <entry key="KOREAN" value="7" />
       </map>
     </option>
   </component>
