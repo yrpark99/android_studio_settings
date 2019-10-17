@@ -1,6 +1,8 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="STICKY" />
+      <item value="AGGRESSIVE" />
       <item value="INFLATER" />
       <item value="Declined" />
       <item value="Flavor" />
@@ -18,8 +20,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="13" />
-        <entry key="KOREAN" value="13" />
+        <entry key="ENGLISH" value="15" />
+        <entry key="KOREAN" value="15" />
       </map>
     </option>
   </component>
