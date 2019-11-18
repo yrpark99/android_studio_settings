@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="longtitude" />
       <item value="inflate" />
       <item value="Business" />
       <item value="cancle" />
@@ -25,8 +26,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="ENGLISH" value="20" />
-        <entry key="KOREAN" value="20" />
+        <entry key="ENGLISH" value="21" />
+        <entry key="KOREAN" value="21" />
       </map>
     </option>
   </component>
