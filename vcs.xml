@@ -26,8 +26,12 @@
           <option name="url" value="https://github.com/seljabali/rxandroidble2-leak" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/android/tv-samples.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="C:\Temp" />
+    <option name="cloneParentDir" value="D:\OpenSource" />
   </component>
 </application>
