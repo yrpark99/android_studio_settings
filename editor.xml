@@ -11,6 +11,7 @@
   </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="17" />
+    <option name="FONT_FAMILY" value="D2Coding" />
   </component>
   <component name="EditorSettings">
     <option name="USE_SOFT_WRAPS" value="" />
